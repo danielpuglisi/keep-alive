@@ -1,0 +1,1 @@
+*/1 * * * * root /etc/cron.custom/keep-alive.sh
