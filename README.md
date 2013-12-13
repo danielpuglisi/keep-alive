@@ -17,4 +17,4 @@ For a closer look what the file does, [click here](https://github.com/danielpugl
 
 ### Manual installation
 
-If you want to install the script by yourself, [read this blog post](http://danielpuglisi.com/articles/2012/08/27/keep-your-free-heroku-app-alive.html).
+If you want to install the script by yourself, [read this blog post](http://danielpuglisi.com/articles/2012/08/keep-your-free-heroku-app-alive.html).
